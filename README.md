@@ -127,12 +127,6 @@ ParticleNexus/
 
 ---
 
-## 🧬 Credits
-
-Originally inspired by [Abhiram-Anoop/Hand-Tracked-Particle-Simulator](https://github.com/Abhiram-Anoop/Hand-Tracked-Particle-Simulator). Rebuilt from the API up with modular shape generators, keyboard fallback, and the Vortex Transition system.
-
----
-
 <p align="center">
   <sub>Built with Three.js, MediaPipe, and zero frameworks. Particles don't lie.</sub>
 </p>
