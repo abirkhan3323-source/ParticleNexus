@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hand-Tracked Particle Simulator — 20K Particles</title>
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <div id="container"></div>
+
+  <div id="ui">
+    <h2 style="margin:0;">Core: <span id="shape-label" class="label">DNA</span></h2>
+    <p id="status-text">Awaiting for Gesture...</p>
+    <div id="gesture-hint">
+      <span class="key">1-0</span> switch shapes &nbsp;
+      <span class="key">🖐</span> hand gestures
+    </div>
+    <div id="controls-info">
+      [Move Hand] → Rotate &nbsp;
+      [Pinch] → Hyper-Expand &nbsp;
+      [Two-Hand Clap] → Next Shape
+    </div>
+  </div>
+
+  <div id="video-container">
+    <video id="webcam" autoplay playsinline></video>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
