@@ -1,5 +1,5 @@
 {
-  "name": "particle-heart-simulator",
+  "name": "particlenexus",
   "version": "1.0.0",
   "description": "20,000+ particles forming 3D heart, DNA helix, butterfly, and more with Three.js + UnrealBloomPass neon glow + hand tracking",
   "type": "module",
