@@ -130,3 +130,6 @@ ParticleNexus/
 <p align="center">
   <sub>Built with Three.js, MediaPipe, and zero frameworks. Particles don't lie.</sub>
 </p>
+
+## Status
+![GitHub stars](https://img.shields.io/github/stars/abirkhan3323-source/ParticleNexus?style=social)
